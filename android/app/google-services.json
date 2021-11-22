@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217978161095",
+    "firebase_url": "https://bagelsnepal.firebaseio.com",
+    "project_id": "bagelsnepal",
+    "storage_bucket": "bagelsnepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217978161095:android:939604215d0c3c81c53be2",
+        "android_client_info": {
+          "package_name": "com.example.bagelsnepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217978161095-8a09eqibvogal9dm7gf6jga3dqsgdk8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bagelsnepal",
+            "certificate_hash": "430839ca5b7c636a496c02a540ae38a0d03e9de8"
+          }
+        },
+        {
+          "client_id": "217978161095-6n37n4p1u9ip64n9p8tmbr38hp4ebnfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApn6b4ms-5Z1wCRmLmsj0D0k1_JjdvuvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217978161095-6n37n4p1u9ip64n9p8tmbr38hp4ebnfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
